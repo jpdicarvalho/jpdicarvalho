@@ -1,10 +1,9 @@
-# João Paulo Di Carvalho
+# João Pedro De Carvalho
 
 ## 👨‍💻 About Me
 
-Hello! I'm João Paulo Di Carvalho, a passionate web developer with a focus on creating innovative and user-friendly applications. I thrive on learning new technologies and solving challenging problems. Currently, I am honing my skills in JavaScript, PHP, HTML5, CSS3, and database management.
+Hello! I'm João Pedro De Carvalho, a passionate web developer with a focus on creating innovative and user-friendly applications. I thrive on learning new technologies and solving challenging problems. Currently, I am honing my skills in JavaScript, PHP, HTML5, CSS3, and database management.
 
-- 🔭 I’m currently working on [Project XYZ](#) - Brief description of the project.
 - 🌱 I’m currently learning and improving my skills in [JavaScript](#), [Node.js](#), [MySQL](#), [React](#), and [CSS](#).
 - 💬 Ask me about web development, software architecture, and best coding practices.
 - 📫 How to reach me: [@jp.dicarvalho](https://www.instagram.com/jp.dicarvalho/) on Instagram.
@@ -25,15 +24,9 @@ Hello! I'm João Paulo Di Carvalho, a passionate web developer with a focus on c
 
 ## 🌐 Projects
 
-### [Project 1](#)
-Short description and link to the project.
-
-### [Project 2](#)
-Short description and link to the project.
-
+  
 ## 🤝 Let's Connect
 
-- GitHub: [jpdicarvalho](https://github.com/jpdicarvalho)
 
 ## 📈 GitHub Stats
 
