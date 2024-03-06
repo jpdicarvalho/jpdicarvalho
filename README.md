@@ -1,4 +1,4 @@
-# João Pedro De Carvalho
+# João Pedro Braga De Carvalho
 
 ## 👨‍💻 About Me
 
@@ -27,8 +27,10 @@ Hello! I'm João Pedro De Carvalho, a passionate web developer with a focus on c
 ### [SevenHub](https://webprojectbsi-2019.000webhostapp.com/index.html)
 This project aims to facilitate the search for developers of all types.
 
-## 🤝 Let's Connect
+### [Laboratório de Programação - Timeline](https://jpdicarvalho.github.io/Programming-Laboratory/)
+This project aims to show practical examples of programming paradigms
 
+## 🤝 Let's Connect
 
 ## 📈 GitHub Stats
 
