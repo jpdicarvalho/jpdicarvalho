@@ -1,4 +1,4 @@
-# João Pedro Braga De Carvalho
+# João Pedro Braga De Carvalho ⚡ 
 
 ## 👨‍💻 About Me
 
