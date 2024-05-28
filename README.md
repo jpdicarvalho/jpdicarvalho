@@ -24,11 +24,10 @@ Hello! I'm João Pedro De Carvalho, a passionate web developer with a focus on c
 
 ## 🌐 Projects
 
-### [SevenHub](https://webprojectbsi-2019.000webhostapp.com/index.html)
-This project aims to facilitate the search for developers of all types.
-
-### [Laboratório de Programação - Timeline](https://jpdicarvalho.github.io/Programming-Laboratory/)
-This project aims to show practical examples of programming paradigms
+### [# Sistema de Gerenciamento Casa Azul](https://jpdicarvalho.github.io/CasaAzul-Frontend/#/Atendimento)
+  - [Repositório do projeto](https://github.com/jpdicarvalho/CasaAzul-Frontend)
+### [# Laboratório de Programação - Timeline](https://jpdicarvalho.github.io/Programming-Laboratory/)
+  - [Repositório do projeto](https://github.com/jpdicarvalho/Programming-Laboratory)
 
 ## 🤝 Let's Connect
 
