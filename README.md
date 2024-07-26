@@ -25,10 +25,11 @@ Hello! I'm João Pedro De Carvalho, a passionate web developer with a focus on c
 
 ## 🌐 Projects
 
+### [# Barbeasy](https://barbeasy.netlify.app/)
+
 ### [# Sistema de Gerenciamento Casa Azul](https://jpdicarvalho.github.io/CasaAzul-Frontend/#/Atendimento)
-  -> [Repositório do projeto](https://github.com/jpdicarvalho/CasaAzul-Frontend)
+  
 ### [# Laboratório de Programação - Timeline](https://jpdicarvalho.github.io/Programming-Laboratory/)
-  -> [Repositório do projeto](https://github.com/jpdicarvalho/Programming-Laboratory)
 
 ## 🤝 Let's Connect
 
