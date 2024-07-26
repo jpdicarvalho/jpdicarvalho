@@ -20,7 +20,8 @@ Hello! I'm João Pedro De Carvalho, a passionate web developer with a focus on c
 
 - Visual Studio Code
 - Git & GitHub
-- MySQL Workbench
+- Beekeeper Studio Ultimate
+- Postman
 
 ## 🌐 Projects
 
