@@ -1,12 +1,8 @@
-# João Pedro Braga De Carvalho ⚡ 
+<div align="center">
+  <h1> João Pedro Braga De Carvalho ⚡</h1>
+<div>
 
-## 👨‍💻 About Me
-
-Hello! I'm João Pedro De Carvalho, a passionate web developer with a focus on creating innovative and user-friendly applications. I thrive on learning new technologies and solving challenging problems. Currently, I am honing my skills in JavaScript, PHP, HTML5, CSS3, and database management.
-
-<h4 align="left">Hello! I'm João Pedro De Carvalho, a passionate web developer with a focus on creating innovative and user-friendly applications. I thrive on learning new technologies and solving challenging problems. Currently, I am honing my skills in JavaScript, PHP, HTML5, CSS3, and database management.</h4>
-
-###
+## Bem Vindo!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jpdicarvalho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -35,20 +31,6 @@ Hello! I'm João Pedro De Carvalho, a passionate web developer with a focus on c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/jpdicarvalho/jpdicarvalho/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="23" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="23" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="23" alt="instagram logo"  />
-</div>
-
-###
-
 ## 🌐 Projects
 
 ### [# Barbeasy](https://barbeasy.netlify.app/)
@@ -57,10 +39,11 @@ Hello! I'm João Pedro De Carvalho, a passionate web developer with a focus on c
   
 ### [# Laboratório de Programação - Timeline](https://jpdicarvalho.github.io/Programming-Laboratory/)
 
-## 🤝 Let's Connect
+###
 
-## 📈 GitHub Stats
-
-[![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpdicarvalho&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/jpdicarvalho)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="23" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="23" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="23" alt="instagram logo"  />
+</div>
 <!-- Feel free to add more sections and customize as needed! -->
