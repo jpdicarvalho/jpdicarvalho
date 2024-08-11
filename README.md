@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/ jpdicarvalho" target="_blank">
+  <a href="www.linkedin.com/in/jpdicarvalho" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="23" alt="linkedin logo"  />
   </a>
   <a href="joaopedrobraga.07@gmail.com" target="_blank">
