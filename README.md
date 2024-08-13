@@ -39,4 +39,9 @@
 ### [# Laboratório de Programação - Timeline](https://jpdicarvalho.github.io/Programming-Laboratory/)
 
 ###
+<div align="center">
+  <a href="https://www.linkedin.com/in/jpdicarvalho/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"     alt="linkedin logo"  />
+  <a/>
+</div>
 <!-- Feel free to add more sections and customize as needed! -->
