@@ -1,6 +1,6 @@
 <div align="center">
   <h1> João Pedro Braga De Carvalho ⚡</h1>
-  <h2>Bem Vindo!</h2>
+  <h2>Bem-Vindo!</h2>
 </div>
 
 <div align="center">
